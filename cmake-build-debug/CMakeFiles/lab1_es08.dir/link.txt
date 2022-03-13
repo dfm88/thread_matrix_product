@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/lab1_es08.dir/main.c.o  -o lab1_es08 
